@@ -45,7 +45,7 @@ metadata-csv: /assets/collectionbuildersurveys.csv
 # Uncomment these and enter information for your organization (replacing the CDIL links and name below) if you'd like to brand your site with a logo
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://www.mountvernon.org/library
-organization-logo-banner: https://www.mountvernon.org/themes/custom/mv/logo.svg
+organization-logo-banner: /assets/img/library-logo.png
 # organization-logo-nav: https://cdil.lib.uidaho.edu/assets/img/logo.png
 
 ##########
