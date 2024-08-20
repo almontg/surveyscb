@@ -48,7 +48,7 @@ metadata-csv: /assets/collectionbuildersurveys.csv
 # organization-name: "Center for Digital Inquiry and Learning (CDIL)"
 organization-link: https://www.mountvernon.org/library
 organization-logo-banner: /assets/img/library-logo.png
-organization-logo-nav: /assets/img/logobig.png
+#organization-logo-nav: /assets/img/logobig.png
 
 ##########
 # ROBOTS EXCLUDE
