@@ -22,11 +22,10 @@ source-code: https://github.com/CollectionBuilder/collectionbuilder-sheets
 # title of site appears in banner
 title: George Washington Surveys
 # tagline, a short phrase that will appear throughout the site in the top banner
-tagline: a test collection for Mount Vernon
+# tagline: a test collection for Mount Vernon
 # description appears in meta tags and other locations
 # this description might appear in search result lists, keep around 160 characters max
-description: "This collection contains selected surveys executed by George Washington. Some were done for other landowners, some for himself.
-
+description: "This collection contains selected surveys executed by George Washington. Some were done for other landowners, some for himself. <br/>
 Additional manuscripts can be found the George Washington Collection which is available in the Special Collections and Archives Catalog.  To search the collection finding aid, please visit: Archives.mountvernon.org."
 # creator of the digital collection, to appear in meta tags; we typically use our GitHub usernames but feel free to just use your name
 author: Mount Vernon Center for Digital History
