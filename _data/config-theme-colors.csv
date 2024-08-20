@@ -6,5 +6,5 @@ info,
 warning,
 danger,
 light,
-dark,
+dark,#003030
 bg-dark,#003030
